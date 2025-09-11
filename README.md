@@ -34,9 +34,9 @@ This repository showcases my work in **manual and automated testing**, including
 
 ## 📫 Contact  
 If you’d like to connect or discuss opportunities, feel free to reach out:  
-- **Email:** [your.email@example.com]  
-- **LinkedIn:** [your-linkedin-profile]  
-- **Portfolio Website (if any):** [your-website.com]  
+- **Email:** Euniceansah98@gmail.com 
+- **LinkedIn:** Eunice Ansah Asare
+- **Portfolio Website :** https://github.com/EuniceAsareAnsah/QA-Engineer-Portfolio
 
 ---
 
